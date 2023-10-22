@@ -1,0 +1,172 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #008080;
+    font-size: 16px;
+}
+
+main{
+    width: 70%;
+    margin-left: 200px;
+}
+
+.titulo_cabecalho {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    color: white;
+}
+
+.subtitulo_cabecalho {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    color: white;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+/* CLIENTE UM */
+
+.cliente_um{
+    margin-top: 100px;
+    background-color: white;
+    padding: 10px;
+    border-radius: 1em;
+    border: solid 2px black;
+}
+
+.descricao_cliente_um{
+    padding: 20px;
+}
+
+.titulo_cliente_um {
+    display: flex;
+    justify-content: center;
+}
+
+.descricao_opniao_um {
+    display: flex;
+    justify-content: center;
+}
+
+.titulo_opniao_um {
+    display: flex;
+    justify-content: center;
+}
+
+.texto_imagem_um {
+    display: flex;
+}
+
+.logo_cliente_um {
+    width: 18%;
+}
+
+.descricao_opniao_um {
+    display: flex;
+    align-items: center;
+    margin-left: 10px;
+}
+
+/* CLIENTE DOIS */
+
+.cliente_dois{
+    margin-top: 100px;
+    background-color: white;
+    padding: 10px;
+    border-radius: 1em;
+    border: solid 2px black;
+}
+.descricao_cliente_dois{
+    padding: 20px;
+}
+
+.titulo_cliente_dois {
+    display: flex;
+    justify-content: center;
+}
+
+.descricao_servico_dois {
+    display: flex;
+    justify-content: center;
+}
+
+.titulo_opniao_dois {
+    display: flex;
+    justify-content: center;
+}
+
+.texto_imagem_dois {
+    display: flex;
+}
+
+.logo_cliente_dois {
+    width: 10%;
+}
+
+.descricao_opniao_dois {
+    display: flex;
+    align-items: center;
+    margin-left: 10px;
+}
+
+/* CLIENTE TRES */
+
+.cliente_tres{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    background-color: white;
+    padding: 10px;
+    border-radius: 1em;
+    border: solid 2px black;
+}
+
+.descricao_cliente_tres {
+    padding: 20px;
+}
+
+.titulo_cliente_tres {
+    display: flex;
+    justify-content: center;
+}
+
+.descricao_servico_tres {
+    display: flex;
+    justify-content: center;
+}
+
+.titulo_opniao_tres {
+    display: flex;
+    justify-content: center;
+}
+
+.texto_imagem_tres {
+    display: flex;
+}
+
+.logo_cliente_tres {
+    width: 10%;
+}
+
+.descricao_opniao_tres {
+    display: flex;
+    align-items: center;
+    margin-left: 10px;
+}
+
+.botao_home {
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
+
+.botao {
+    background-color: white;
+    border: solid 2px black;
+    font-size: 20px;
+    padding: 5px 10px 5px 10px;
+}
